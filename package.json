@@ -1,0 +1,27 @@
+{
+  "name": "typescript-notebook",
+  "version": "1.0.0",
+  "description": "A TypeScript notebook for learning concepts and exploring libraries",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackdo69/typescript-notebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jackdo69/typescript-notebook/issues"
+  },
+  "homepage": "https://github.com/jackdo69/typescript-notebook#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "typescript": "^5.9.3"
+  }
+}
